@@ -75,7 +75,25 @@
 
 \maketitle
 
-\nocite{*}
+\section{Docker}
+
+\begin{itemize}
+    \item \fullcite{Merkel-2014}
+\end{itemize}
+
+\section{Rocker}
+
+\begin{itemize}
+    \item \fullcite{Boettiger-Eddelbuettel-2017}
+    \item \fullcite{Nust-Eddelbuettel-Bennett-etal-2020}
+\end{itemize}
+
+\section{Apptainer/Singularity}
+
+\begin{itemize}
+    \item \fullcite{Kurtzer-Sochat-Bauer-2017}
+    \item \fullcite{Kurtzer-cclerget-Bauer-etal-2021}
+\end{itemize}
 
 \printbibliography
 
