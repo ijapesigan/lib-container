@@ -23,6 +23,27 @@
 % #| )
 %% end.rcode
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% BIBLATEX READING
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%% begin.rcode
+% #| label = "root",
+% #| include = FALSE
+% root <- rprojroot::is_rstudio_project
+%% end.rcode
+
+%% begin.rcode
+% #| label = "knitr",
+% #| include = FALSE,
+% #| file = root$find_file(
+% #|   ".setup",
+% #|   "latex",
+% #|   "r-scripts",
+% #|   "knitr.R"
+% #| )
+%% end.rcode
+
 %% begin.rcode
 % #| label = "biblatex",
 % #| echo = FALSE,
@@ -43,7 +64,8 @@
 %         ".setup",
 %         "latex",
 %         "bib"
-%       )
+%       ),
+%       style = "reading"
 %     )
 %   )
 % } else {
