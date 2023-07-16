@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "lib-container",
     "section": "",
-    "text": "Boettiger, C., & Eddelbuettel, D. (2017). An introduction to\nRocker: Docker containers for R. The R\nJournal, 9(2), 527. https://doi.org/10.32614/rj-2017-065\n\n\nNüst, D., Eddelbuettel, D., Bennett, D., Cannoodt, R., Clark, D.,\nDar’oczi, G., Edmondson, M., Fay, C., Hughes, E., Kjeldgaard, L., Lopp,\nS., Marwick, B., Nolis, H., Nolis, J., Ooi, H., Ram, K., Ross, N.,\nShepherd, L., S’olymos, P., … Xiao, N. (2020). The\nRockerverse: Packages and applications for containerisation\nwith R. The R Journal, 12(1), 437. https://doi.org/10.32614/rj-2020-007"
+    "text": "Boettiger, C., & Eddelbuettel, D. (2017). An introduction to\nRocker: Docker containers for R. The R\nJournal, 9(2), 527. https://doi.org/10.32614/rj-2017-065\n\n\nKurtzer, G. M., cclerget, Bauer, M., Kaneshiro, I., Trudgian, D., &\nGodlove, D. (2021). Hpcng/singularity: Singularity\n3.7.3. Zenodo. https://doi.org/10.5281/ZENODO.1310023\n\n\nKurtzer, G. M., Sochat, V., & Bauer, M. W. (2017).\nSingularity: Scientific containers for mobility of compute.\nPLOS ONE, 12(5), e0177459.\nhttps://doi.org/10.1371/journal.pone.0177459\n\n\nNüst, D., Eddelbuettel, D., Bennett, D., Cannoodt, R., Clark, D.,\nDar’oczi, G., Edmondson, M., Fay, C., Hughes, E., Kjeldgaard, L., Lopp,\nS., Marwick, B., Nolis, H., Nolis, J., Ooi, H., Ram, K., Ross, N.,\nShepherd, L., S’olymos, P., … Xiao, N. (2020). The\nRockerverse: Packages and applications for containerisation\nwith R. The R Journal, 12(1), 437. https://doi.org/10.32614/rj-2020-007"
   },
   {
     "objectID": ".setup/quarto/session/session.html#session",
