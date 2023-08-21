@@ -1,7 +1,11 @@
 ---
 title: References
 nocite: |
-  @*
+  @Merkel-2014
+  @Boettiger-Eddelbuettel-2017
+  @Nust-Eddelbuettel-Bennett-etal-2020
+  @Kurtzer-Sochat-Bauer-2017
+  @Kurtzer-cclerget-Bauer-etal-2021
 ---
 
 ::: {#refs}

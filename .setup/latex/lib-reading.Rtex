@@ -71,12 +71,21 @@
 
 \begin{center}
     \LARGE
-    \textbf{Ivan Jacob Agaloos Pesigan} \\
+    \textbf{Container} \\
+    Ivan Jacob Agaloos Pesigan \\
     \large
-    \textbf{\today}
+    \today
 \end{center}
 
-\nocite{*}
+\nocite{Merkel-2014}
+
+\nocite{Boettiger-Eddelbuettel-2017}
+
+\nocite{Nust-Eddelbuettel-Bennett-etal-2020}
+
+\nocite{Kurtzer-Sochat-Bauer-2017}
+
+\nocite{Kurtzer-cclerget-Bauer-etal-2021}
 
 \printbibliography
 
