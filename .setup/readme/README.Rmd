@@ -6,7 +6,11 @@ output: github_document
 bibliography: "vignettes.bib"
 csl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl
 nocite: |
-  @*
+  @Merkel-2014
+  @Boettiger-Eddelbuettel-2017
+  @Nust-Eddelbuettel-Bennett-etal-2020
+  @Kurtzer-Sochat-Bauer-2017
+  @Kurtzer-cclerget-Bauer-etal-2021
 ---
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
